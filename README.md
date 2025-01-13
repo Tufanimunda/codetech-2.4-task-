@@ -1,12 +1,12 @@
 # codetech_task_2.4
 
-Name:Parth Deorukhkar
+Name:SOHAM DHUMAL
 
 Company:CODETECH IT SOLLUTION
 
-ID:CT08EIV
+ID:CT08EGB
 
-Domain:Python
+Domain:Python Programming
 
 Duration:Dec17 to Jan 17
 
